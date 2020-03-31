@@ -200,6 +200,10 @@ def raw_data(df):
         else:
             print('Please choose yes or no.')
             continue
+
+def uselessFunction():
+
+	print('This should not be printed!')
     
     
 def main():
