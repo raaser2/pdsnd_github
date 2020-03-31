@@ -200,6 +200,10 @@ def raw_data(df):
         else:
             print('Please choose yes or no.')
             continue
+
+def uselessFunction():
+
+	print('This should not be printed!')
     
     
 def main():
@@ -217,7 +221,7 @@ def main():
         if restart.lower() != 'yes':
             break
 
-
+	print('Thank you for using my program!')
 if __name__ == "__main__":
 	main()
 
