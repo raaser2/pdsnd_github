@@ -5,7 +5,7 @@ March 31, 2020
 bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+gives statistics for bikeshare data from different cities
 
 ### Files used
 Include the files used
