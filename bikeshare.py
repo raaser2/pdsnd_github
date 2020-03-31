@@ -217,7 +217,7 @@ def main():
         if restart.lower() != 'yes':
             break
 
-
+	print('Thank you for using my program!')
 if __name__ == "__main__":
 	main()
 
