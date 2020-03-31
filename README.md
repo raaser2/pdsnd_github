@@ -13,5 +13,8 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://www.listendata.com/2019/07/how-to-filter-pandas-dataframe.html
 
+https://stackoverflow.com/questions/53255796/how-to-get-a-single-value-as-a-string-from-pandas-data-frame
+
+https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
